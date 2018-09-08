@@ -1,0 +1,11 @@
+.bg-white {
+  background-color: white;
+}
+
+.raised {
+  box-shadow: 4px 4px 8px 4px #00000033;
+}
+
+.caption {
+  margin-top: -40px;
+}
