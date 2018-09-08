@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/glennfaison/cv/issues"
   },
-  "homepage": "https://github.com/glennfaison/cv#readme",
+  "homepage": "https://github.com/glennfaison/cv",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
